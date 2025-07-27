@@ -40,7 +40,6 @@ Follow these instructions to get a local copy of MoodSync up and running on your
 
 ```bash
 git clone https://github.com/sharvil-lade/Mood-Sync.git
-cd mood-sync
 ```
 
 #### Backend Setup

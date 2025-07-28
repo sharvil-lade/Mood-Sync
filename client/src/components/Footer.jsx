@@ -8,10 +8,9 @@ function Footer() {
       <div className="container mx-auto px-4">
         {/* Top Section: Logo and Social Icons */}
         <div className="flex flex-col md:flex-row justify-between items-center gap-4">
-          {/* Logo or App Name */}
           <div className="text-center md:text-left">
             <h2 className="text-2xl font-bold text-[#e576f1]">MoodSync</h2>
-            <p className="text-sm ">Your partner in mental wellness</p>
+            <p className="text-sm">Your partner in mental wellness</p>
           </div>
 
           {/* Social Media Icons */}
@@ -63,7 +62,6 @@ function Footer() {
             >
               Features
             </Link>
-            {/* Added a 'to' prop for consistency */}
             <Link
               to="/benefits"
               className="hover:underline hover:text-[#e576f1]"
